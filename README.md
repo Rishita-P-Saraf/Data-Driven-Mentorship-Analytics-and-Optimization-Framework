@@ -1,4 +1,4 @@
-# 📘 Scaler Program Management Intern Assignment – Mentor Session Structure  
+# 📘 Data Driven Mentorship Analytics and Optimization Framework
 ---
 
 ## 🧩 Overview  
