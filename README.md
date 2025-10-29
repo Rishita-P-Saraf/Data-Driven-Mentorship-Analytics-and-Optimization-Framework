@@ -146,6 +146,7 @@ The solution proposes a **data-driven framework** for improving mentoring sessio
   - Storage: NoSQL + Relational DB  
   - Dashboard: Power BI / Excel  
 - **Benefits:** Real-time alerts, reduced manual tracking, predictive drop-off detection.
+<img width="1296" height="543" alt="Screenshot 2025-10-29 152536" src="https://github.com/user-attachments/assets/12175af2-7ce5-4b44-8400-cf97a477a775" />
 
 ---
 
@@ -155,6 +156,7 @@ The solution proposes a **data-driven framework** for improving mentoring sessio
 - **NLP:** TextBlob / VADER for sentiment & keyword extraction.  
 - **Pipeline:** Feedback → NLP Microservice → Sentiment Score → Dashboard & Alerts.  
 - **Benefits:** Early dissatisfaction detection, mentor-wise trends, automated alerts.
+<img width="1751" height="664" alt="Screenshot 2025-10-14 180921" src="https://github.com/user-attachments/assets/1bf25ddf-00b2-46a9-967b-4d3764153a1e" />
 
 ---
 
@@ -167,6 +169,7 @@ The solution proposes a **data-driven framework** for improving mentoring sessio
   - Campaign Manager: Personalized nudges  
   - Channels: Email, SMS, In-App Notifications  
 - **Outcome:** Reduced no-shows, improved attendance consistency.
+<img width="1586" height="738" alt="Screenshot 2025-10-14 182514" src="https://github.com/user-attachments/assets/dce0a8c1-f705-4f1f-8b8e-ade58328405b" />
 
 ---
 
@@ -188,6 +191,7 @@ The solution proposes a **data-driven framework** for improving mentoring sessio
 | **Input Data** | Attendance %, Duration Gap, Ratings, Action Items, Sentiment |
 | **Flagging Criteria** | Attendance <70%, Rating <3.5, Duration <80%, Negative Sentiment <0 |
 | **Dashboard Features** | Traffic-light visualization, mentor/batch views, trend KPIs, auto-alerts |
+<img width="1290" height="721" alt="Screenshot 2025-10-14 195046" src="https://github.com/user-attachments/assets/39f5ba02-b7b0-4277-852b-04f0b0282644" />
 
 ---
 
